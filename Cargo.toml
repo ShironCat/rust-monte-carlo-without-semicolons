@@ -1,0 +1,8 @@
+[package]
+name = "rust-monte-carlo-without-semicolons"
+version = "0.1.0"
+authors = ["Victor Azadinho Miranda <victorazadinho@pm.me>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.8.3"
